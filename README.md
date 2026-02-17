@@ -2,25 +2,25 @@
 
 Une application Java simple et efficace pour gérer vos contacts téléphoniques via une interface console.
 
-## 🚀 Fonctionnalités
+##  Fonctionnalités
 
-- ✅ **Lister les contacts** - Afficher tous les contacts enregistrés
-- ➕ **Ajouter un contact** - Créer un nouveau contact avec nom, prénom et numéro
-- 🗑️ **Supprimer un contact** - Supprimer un contact par son numéro de téléphone
-- 💾 **Persistance des données** - Sauvegarde automatique dans un fichier texte
+-  **Lister les contacts** - Afficher tous les contacts enregistrés
+-  **Ajouter un contact** - Créer un nouveau contact avec nom, prénom et numéro
+-  **Supprimer un contact** - Supprimer un contact par son numéro de téléphone
+-  **Persistance des données** - Sauvegarde automatique dans un fichier texte
 
-## 🛠️ Technologies
+##  Technologies
 
 - **Java 14+**
 - **Maven** pour la gestion des dépendances
 - **Architecture en couches** (Model-Repository-Service-UI)
 
-## 📋 Prérequis
+##  Prérequis
 
 - Java JDK 14 ou supérieur
 - Maven 3.6+
 
-## ⚡ Installation et Exécution
+##  Installation et Exécution
 
 1. **Cloner le projet**
 ```bash
@@ -43,7 +43,7 @@ Ou alternativement :
 java -cp target/classes bf.annuaire.Main
 ```
 
-## 🎯 Utilisation
+##  Utilisation
 
 Au lancement, un menu interactif s'affiche :
 
@@ -65,7 +65,7 @@ Votre choix :
 - Sélectionnez l'option 3
 - Entrez le numéro de téléphone du contact à supprimer
 
-## 📁 Structure du Projet
+##  Structure du Projet
 
 ```
 src/main/java/bf/annuaire/
@@ -80,25 +80,25 @@ src/main/java/bf/annuaire/
     └── ConsoleUI.java          # Interface utilisateur console
 ```
 
-## 💾 Stockage des Données
+##  Stockage des Données
 
 Les contacts sont sauvegardés dans le fichier `contacts.txt` à la racine du projet. Ce fichier est créé automatiquement lors du premier ajout de contact.
 
-## 🧪 Tests
+##  Tests
 
 Pour exécuter les tests :
 ```bash
 mvn test
 ```
 
-## 🤝 Contribution
+##  Contribution
 
 Les contributions sont les bienvenues ! N'hésitez pas à :
 - Signaler des bugs
 - Proposer de nouvelles fonctionnalités
 - Améliorer la documentation
 
-## 📄 Licence
+##  Licence
 
 Ce projet est sous licence libre. Vous pouvez l'utiliser, le modifier et le distribuer librement.
 
@@ -108,3 +108,4 @@ Ce projet est sous licence libre. Vous pouvez l'utiliser, le modifier et le dist
 ---
 
 ⭐ N'hésitez pas à donner une étoile si ce projet vous a été utile !
+# annuaire-java-console
