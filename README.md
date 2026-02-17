@@ -103,7 +103,7 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 Ce projet est sous licence libre. Vous pouvez l'utiliser, le modifier et le distribuer librement.
 
 ---
-**Sawadogo Abdel Kaled** - [GitHub](https://github.com/kvill01)
+**Sawadogo Abdel Kaled** - [GitHub](https://github.com/kvill0780)
 
 ---
 
